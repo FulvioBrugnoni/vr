@@ -1,0 +1,475 @@
+Lang,Slide,Posizione,Testo
+1,1,1,Sei stato reindirizzato  sul sito xxx  aiutiamo la aziende a capire se sei idoneo per la loro organizzazione.Ti chiediamo di compilare le form e rispondere alle domande  il tempo necessario è circa 40 min.Link per effettuare la registrazione    
+1,1,2,Registrazione
+1,1,3,Se hai già compilato il test clicca sul link sotto ed effettua la login. Link per effettuare la login
+1,1,4,Login
+1,4,1,User
+1,5,1,Nome
+1,5,2,Cognome
+1,5,3,Codice Fiscale
+1,5,4,Età
+1,5,5,Gender
+1,5,6,Stato
+1,5,7,Provincia
+1,5,8,Comune
+1,6,1,Questa tematica è dedicata ai tui studi se vuoi inserire i tui studi clicca il link
+1,6,2,Inserisci i tuoi studi
+1,6,3,altrimenti passa alla tematica successiva cliccando il link
+1,6,4,Temeatica successiva
+1,7,1,Titolo
+1,8,1,'Grazie l’informazione è stata inserita correttamente se vuoi inserire un''altro studio clicca il link'
+1,8,2,Inserisci altro studio
+1,8,3,altrimenti passa alla tematica successiva
+1,8,4,Temeatica successiva
+1,9,1,Questa tematica è dedicata alle tue esperienze lavorative se vuoi inserire le tue esperienze lavorative clicca il link
+1,9,2,Inserisci le tue esperienze
+1,9,3,altrimenti passa alla tematica successiva cliccando il link
+1,9,4,Temeatica successiva
+1,10,1,Professione
+1,10,2,Durata
+1,11,1,'Grazie l’informazione è stata inserita correttamente se vuoi inserire un''altra esperienza lavorativa clicca il link'
+1,11,2,Inserisci altra esperienza lavorativa
+1,11,3,altrimenti passa alla tematica successiva
+1,11,4,Tematica successiva
+1,12,1,Questa tematica è dedicata alle lingue conosciute se vuoi inserire i tui dati clicca il link
+1,12,2,Inserisci i tuoi dati
+1,12,3,altrimenti passa alla tematica successiva cliccando il link
+1,12,4,Temeatica successiva
+1,13,1,Lingua
+1,13,2,Livello
+1,14,1,'Grazie l’informazione è stata inserita correttamente se vuoi inserire un''altra lingua conosciuta clicca il link'
+1,14,2,Inserisci altra lingua
+1,14,3,altrimenti passa alla tematica successiva
+1,14,4,Temeatica successiva
+1,16,1,Clicca sul link per fare modificare o aggiornare i tuoi dati
+1,16,2,Modifica i dati
+1,17,1,Modifica i tuoi dati cliccando sui link sotto
+1,17,2,Modifica i dati Anagrafici
+1,17,3,Modifica i dati Lavorativi
+1,17,4,Modifica i dati di Studi
+1,17,5,Modifica i dati di Lingue
+1,18,1,Titolo
+1,19,2,'Grazie l’informazione è stata inserita correttamente se vuoi inserire un''altro studio clicca il link'
+1,19,3,Aggiungi studio
+1,19,4,altrimenti passa alla tematica successiva cliccando il link
+1,19,5,Torna alla pagina iniziale
+1,20,1,Titolo
+1,21,1,Professione
+1,21,2,Durata
+1,22,2,'Grazie l’informazione è stata inserita correttamente se vuoi inserire un''altra esperienza profesionale clicca il link'
+1,22,3,Aggiungi Esperienza professionale
+1,22,4,altrimenti passa alla tematica successiva cliccando il link
+1,22,5,Torna alla pagina iniziale
+1,23,1,Professione
+1,23,2,Durata
+1,24,1,Lingua
+1,24,2,Livello
+1,25,2,'Grazie l’informazione è stata inserita correttamente se vuoi inserire un''altro studio clicca il link'
+1,25,3,Aggiungi Lingua
+1,25,4,altrimenti passa alla tematica successiva cliccando il link
+1,25,5,Torna alla pagina iniziale
+1,26,1,Lingua
+1,26,2,Livello
+1,27,1,Nome
+1,27,2,Cognome
+1,27,3,Codice Fiscale
+1,27,4,Eta
+1,27,5,Gender
+1,27,6,Stato
+1,27,7,Provincia
+1,27,8,Comune
+2,1,1,You have been redirected to the xxx site we help companies to understand if you are suitable for their organization.We ask you to fill in the forms and answer the questions the time required is about 40 min. Link to register
+2,1,2,Registration
+2,1,3,If you have already completed the test click on the link below and log in. Link to login
+2,1,4,Login
+2,4,1,User
+2,5,1,First name
+2,5,2,Surname
+2,5,3,Fiscal Code
+2,5,4,Age
+2,5,5,Gender
+2,5,6,State
+2,5,7,province
+2,5,8,Common
+2,6,1,This topic is dedicated to your studies if you want to insert your studies click the link
+2,6,2,Enter your studies
+2,6,3,otherwise go to the next topic by clicking the link
+2,6,4,Subsequent theme
+2,7,1,Title
+2,8,1,'Thank you, the information has been entered correctly if you want to add another study click the link'
+2,8,2,Enter another study
+2,8,3,otherwise go to the next topic
+2,8,4,Subsequent theme
+2,9,1,This topic is dedicated to your work experiences if you want to insert your work experiences click the link
+2,9,2,Enter your experiences
+2,9,3,otherwise go to the next topic by clicking the link
+2,9,4,Subsequent theme
+2,10,1,Profession
+2,10,2,Duration
+2,11,1,'Thank you, the information has been entered correctly. If you want to add another work experience click the link'
+2,11,2,Enter other work experience
+2,11,3,otherwise go to the next topic
+2,11,4,Next topic
+2,12,1,This topic is dedicated to known languages ​​if you want to enter your data click the link
+2,12,2,Insert your data
+2,12,3,otherwise go to the next topic by clicking the link
+2,12,4,Subsequent theme
+2,13,1,Tongue
+2,13,2,Level
+2,14,1,'Thanks, the information has been entered correctly. If you want to enter another known language click the link'
+2,14,2,Enter another language
+2,14,3,otherwise go to the next topic
+2,14,4,Subsequent theme
+2,16,1,Click on the link to have your data changed or updated
+2,16,2,Edit the data
+2,17,1,Edit your details by clicking on the links below
+2,17,2,Change the personal data
+2,17,3,Change your Work data
+2,17,4,Modify Studies data
+2,17,5,Edit the Languages ​​data
+2,18,1,Title
+2,19,2,'Thank you, the information has been entered correctly if you want to add another study click the link'
+2,19,3,Add study
+2,19,4,otherwise go to the next topic by clicking the link
+2,19,5,Back to home page
+2,20,1,Title
+2,21,1,Profession
+2,21,2,Duration
+2,22,2,'Thank you, the information has been entered correctly. If you want to add another professional experience click the link'
+2,22,3,Add Professional Experience
+2,22,4,otherwise go to the next topic by clicking the link
+2,22,5,Back to home page
+2,23,1,Profession
+2,23,2,Duration
+2,24,1,Tongue
+2,24,2,Level
+2,25,2,'Thank you, the information has been entered correctly if you want to add another study click the link'
+2,25,3,Add Language
+2,25,4,otherwise go to the next topic by clicking the link
+2,25,5,Back to home page
+2,26,1,Tongue
+2,26,2,Level
+2,27,1,First name
+2,27,2,Surname
+2,27,3,Fiscal Code
+2,27,4,Age
+2,27,5,Gender
+2,27,6,State
+2,27,7,province
+2,27,8,Common
+3,1,1,Te han redireccionado al sitio xxx ayudamos a las empresas a entender si eres apto para su organización. Te pedimos que llenes los formularios y respondas las preguntas el tiempo requerido es de aproximadamente 40 min. Enlace para registrarse
+3,1,2,Registro
+3,1,3,'Si ya ha completado la prueba, haga clic en el enlace a continuación e inicie sesión. Enlace para iniciar sesión'
+3,1,4,Iniciar sesión
+3,4,1,Usuario
+3,5,1,Primer nombre
+3,5,2,Apellido
+3,5,3,Código Fiscal
+3,5,4,Años
+3,5,5,Género
+3,5,6,Estado
+3,5,7,provincia
+3,5,8,Común
+3,6,1,Este tema está dedicado a sus estudios si desea insertar sus estudios haga clic en el enlace
+3,6,2,Ingresa tus estudios
+3,6,3,'de lo contrario, vaya al tema siguiente haciendo clic en el enlace'
+3,6,4,Tema posterior
+3,7,1,Título
+3,8,1,'Gracias, la información se ha ingresado correctamente si desea agregar otro estudio haga clic en el enlace'
+3,8,2,Entrar en otro estudio
+3,8,3,'de lo contrario, pase al tema siguiente'
+3,8,4,Tema posterior
+3,9,1,Este tema está dedicado a sus experiencias laborales si desea insertar sus experiencias laborales haga clic en el enlace
+3,9,2,Ingrese sus experiencias
+3,9,3,'de lo contrario, vaya al tema siguiente haciendo clic en el enlace'
+3,9,4,Tema posterior
+3,10,1,Profesión
+3,10,2,Duración
+3,11,1,'Gracias, la información se ingresó correctamente. Si desea agregar otra experiencia laboral, haga clic en el vínculo'
+3,11,2,Ingrese otra experiencia laboral
+3,11,3,'de lo contrario, pase al tema siguiente'
+3,11,4,Siguiente tema
+3,12,1,'Este tema está dedicado a los idiomas conocidos si desea ingresar sus datos, haga clic en el enlace'
+3,12,2,Inserta tus datos
+3,12,3,'de lo contrario, vaya al tema siguiente haciendo clic en el enlace'
+3,12,4,Tema posterior
+3,13,1,Lengua
+3,13,2,Nivel
+3,14,1,'Gracias, la información se ha ingresado correctamente si desea ingresar otro idioma conocido haga clic en el enlace'
+3,14,2,Ingrese otro idioma
+3,14,3,'de lo contrario, pase al tema siguiente'
+3,14,4,Tema posterior
+3,16,1,Haga clic en el enlace para modificar o actualizar sus datos
+3,16,2,Edita los datos
+3,17,1,Edite sus datos haciendo clic en los enlaces a continuación
+3,17,2,Cambiar los datos personales
+3,17,3,Cambia tus datos de trabajo
+3,17,4,Modificar datos de estudios
+3,17,5,Editar los datos de Idiomas
+3,18,1,Título
+3,19,2,'Gracias, la información se ha ingresado correctamente si desea agregar otro estudio haga clic en el enlace'
+3,19,3,Agregar estudio
+3,19,4,'de lo contrario, vaya al tema siguiente haciendo clic en el enlace'
+3,19,5,Volver a la página de inicio
+3,20,1,Título
+3,21,1,Profesión
+3,21,2,Duración
+3,22,2,'Gracias, la información se ha ingresado correctamente. Si desea agregar otra experiencia profesional haga clic en el enlace'
+3,22,3,Agregar experiencia profesional
+3,22,4,'de lo contrario, vaya al tema siguiente haciendo clic en el enlace'
+3,22,5,Volver a la página de inicio
+3,23,1,Profesión
+3,23,2,Duración
+3,24,1,Lengua
+3,24,2,Nivel
+3,25,2,'Gracias, la información se ha ingresado correctamente si desea agregar otro estudio haga clic en el enlace'
+3,25,3,Agregar idioma
+3,25,4,'de lo contrario, vaya al tema siguiente haciendo clic en el enlace'
+3,25,5,Volver a la página de inicio
+3,26,1,Lengua
+3,26,2,Nivel
+3,27,1,Primer nombre
+3,27,2,Apellido
+3,27,3,Código Fiscal
+3,27,4,Años
+3,27,5,Género
+3,27,6,Estado
+3,27,7,provincia
+3,27,8,Común
+4,1,1,'Vous avez été redirigé vers le site xxx nous aidons les entreprises à comprendre si vous êtes adapté à leur organisation Nous vous demandons de remplir les formulaires et de répondre aux questions le temps requis est d''environ 40 minutes.'
+4,1,2,enregistrement
+4,1,3,'Si vous avez déjà terminé le test, cliquez sur le lien ci-dessous et connectez-vous. Lien pour se connecter'
+4,1,4,Se connecter
+4,4,1,Utilisateur
+4,5,1,Prénom
+4,5,2,Nom
+4,5,3,code fiscal
+4,5,4,Âge
+4,5,5,Le sexe
+4,5,6,'L''état'
+4,5,7,Province * ANTIBES FRANCE
+4,5,8,Commun
+4,6,1,Ce sujet est dédié à vos études si vous souhaitez insérer vos études cliquez sur le lien
+4,6,2,Entrez vos études
+4,6,3,sinon passez au sujet suivant en cliquant sur le lien
+4,6,4,Thème suivant
+4,7,1,Titre
+4,8,1,'Merci, les informations ont été correctement saisies. Si vous souhaitez ajouter une autre étude, cliquez sur le lien'
+4,8,2,Entrez une autre étude
+4,8,3,sinon passez au sujet suivant
+4,8,4,Thème suivant
+4,9,1,Cette rubrique est dédiée à vos expériences de travail si vous souhaitez insérer vos expériences de travail cliquez sur le lien
+4,9,2,Entrez vos expériences
+4,9,3,sinon passez au sujet suivant en cliquant sur le lien
+4,9,4,Thème suivant
+4,10,1,Profession
+4,10,2,Durée
+4,11,1,'Merci, les informations ont été correctement saisies. Si vous souhaitez ajouter une autre expérience professionnelle, cliquez sur le lien'
+4,11,2,Entrez une autre expérience de travail
+4,11,3,sinon passez au sujet suivant
+4,11,4,Sujet suivant
+4,12,1,Cette rubrique est dédiée aux langues connues si vous souhaitez saisir vos données cliquez sur le lien
+4,12,2,Insérez vos données
+4,12,3,sinon passez au sujet suivant en cliquant sur le lien
+4,12,4,Thème suivant
+4,13,1,Langue
+4,13,2,Niveau
+4,14,1,'Merci, les informations ont été correctement saisies. Si vous souhaitez saisir une autre langue connue, cliquez sur le lien'
+4,14,2,Entrez une autre langue
+4,14,3,sinon passez au sujet suivant
+4,14,4,Thème suivant
+4,16,1,Cliquez sur le lien pour modifier ou mettre à jour vos données
+4,16,2,Modifier les données
+4,17,1,Modifiez vos coordonnées en cliquant sur les liens ci-dessous
+4,17,2,Changer les données personnelles
+4,17,3,Modifiez vos données professionnelles
+4,17,4,Modifier les données des études
+4,17,5,Modifier les données des langues
+4,18,1,Titre
+4,19,2,'Merci, les informations ont été correctement saisies. Si vous souhaitez ajouter une autre étude, cliquez sur le lien'
+4,19,3,Ajouter une étude
+4,19,4,sinon passez au sujet suivant en cliquant sur le lien
+4,19,5,'Retour à la page d''accueil'
+4,20,1,Titre
+4,21,1,Profession
+4,21,2,Durée
+4,22,2,'Merci, les informations ont été correctement saisies. Si vous souhaitez ajouter une autre expérience professionnelle, cliquez sur le lien'
+4,22,3,Ajouter une expérience professionnelle
+4,22,4,sinon passez au sujet suivant en cliquant sur le lien
+4,22,5,'Retour à la page d''accueil'
+4,23,1,Profession
+4,23,2,Durée
+4,24,1,Langue
+4,24,2,Niveau
+4,25,2,'Merci, les informations ont été correctement saisies. Si vous souhaitez ajouter une autre étude, cliquez sur le lien'
+4,25,3,Ajouter une langue
+4,25,4,sinon passez au sujet suivant en cliquant sur le lien
+4,25,5,'Retour à la page d''accueil'
+4,26,1,Langue
+4,26,2,Niveau
+4,27,1,Prénom
+4,27,2,Nom
+4,27,3,code fiscal
+4,27,4,Âge
+4,27,5,Le sexe
+4,27,6,'L''état'
+4,27,7,Province * ANTIBES FRANCE
+4,27,8,Commun
+5,1,1,您已被重定向到xxx网站，我们帮助公司了解您是否适合他们的组织。我们要求您填写表格并回答问题，所需时间约为40分钟。
+5,1,2,注册
+5,1,3,如果您已经完成测试，请单击下面的链接并登录。链接登录
+5,1,4,登录
+5,4,1,用户
+5,5,1,名字
+5,5,2,姓
+5,5,3,税控码
+5,5,4,年龄
+5,5,5,性别
+5,5,6,州
+5,5,7,省
+5,5,8,共同
+5,6,1,如果您想插入您的研究，本主题专门针对您的研究，请单击链接
+5,6,2,输入你的学历
+5,6,3,否则，通过单击链接转到下一个主题
+5,6,4,后续主题
+5,7,1,标题
+5,8,1,谢谢，如果您要添加其他研究，则信息输入正确，请单击链接
+5,8,2,输入另一项研究
+5,8,3,否则转到下一个主题
+5,8,4,后续主题
+5,9,1,如果您想插入工作经历，则本主题专门针对您的工作经历。单击链接
+5,9,2,输入您的经验
+5,9,3,否则，通过单击链接转到下一个主题
+5,9,4,后续主题
+5,10,1,职业
+5,10,2,持续时间
+5,11,1,谢谢，信息输入正确，如果您想增加工作经验，请点击链接
+5,11,2,输入其他工作经验
+5,11,3,否则转到下一个主题
+5,11,4,下一个话题
+5,12,1,本主题专用于已知语言。如果要输入数据，请单击链接
+5,12,2,插入数据
+5,12,3,否则，通过单击链接转到下一个主题
+5,12,4,后续主题
+5,13,1,舌
+5,13,2,水平
+5,14,1,谢谢，信息输入正确，如果您想输入其他已知语言，请点击链接
+5,14,2,输入另一种语言
+5,14,3,否则转到下一个主题
+5,14,4,后续主题
+5,16,1,单击链接以更改或更新您的数据
+5,16,2,编辑数据
+5,17,1,通过单击下面的链接来编辑您的详细信息
+5,17,2,更改个人资料
+5,17,3,更改您的工作数据
+5,17,4,修改研究数据
+5,17,5,编辑语言数据
+5,18,1,标题
+5,19,2,谢谢，如果您要添加其他研究，则信息输入正确，请单击链接
+5,19,3,添加研究
+5,19,4,否则，通过单击链接转到下一个主题
+5,19,5,返回首页
+5,20,1,标题
+5,21,1,职业
+5,21,2,持续时间
+5,22,2,谢谢，信息输入正确，如果您想增加专业经验，请点击链接
+5,22,3,增加专业经验
+5,22,4,否则，通过单击链接转到下一个主题
+5,22,5,返回首页
+5,23,1,职业
+5,23,2,持续时间
+5,24,1,舌
+5,24,2,水平
+5,25,2,谢谢，如果您要添加其他研究，则信息输入正确，请单击链接
+5,25,3,添加语言
+5,25,4,否则，通过单击链接转到下一个主题
+5,25,5,返回首页
+5,26,1,舌
+5,26,2,水平
+5,27,1,名字
+5,27,2,姓
+5,27,3,税控码
+5,27,4,年龄
+5,27,5,性别
+5,27,6,州
+5,27,7,省
+5,27,8,共同
+6,1,1,xxxサイトにリダイレクトされました。企業が組織に適しているかどうかを理解するのに役立ちます。フォームに記入し、質問に回答してください。所要時間は約40分です。登録へのリンク
+6,1,2,登録
+6,1,3,すでにテストを完了している場合は、下のリンクをクリックしてログインしてください。ログインへのリンク
+6,1,4,ログインする
+6,4,1,ユーザー
+6,5,1,ファーストネーム
+6,5,2,姓
+6,5,3,会計コード
+6,5,4,年齢
+6,5,5,性別
+6,5,6,状態
+6,5,7,州
+6,5,8,一般
+6,6,1,あなたがあなたの研究を挿入したいならば、このトピックはあなたの研究に捧げられますリンクをクリックしてください
+6,6,2,あなたの研究を入力してください
+6,6,3,それ以外の場合は、リンクをクリックして次のトピックに移動します
+6,6,4,後続のテーマ
+6,7,1,題名
+6,8,1,ありがとうございます。別の調査を追加する場合は、情報が正しく入力されています。リンクをクリックしてください
+6,8,2,別の研究に入る
+6,8,3,それ以外の場合は、次のトピックに進みます
+6,8,4,後続のテーマ
+6,9,1,仕事の経験を挿入したい場合は、このトピックはあなたの仕事の経験に捧げられていますリンクをクリックしてください
+6,9,2,あなたの経験を入力してください
+6,9,3,それ以外の場合は、リンクをクリックして次のトピックに移動します
+6,9,4,後続のテーマ
+6,10,1,職業
+6,10,2,期間
+6,11,1,情報が正しく入力されました。別の仕事の経験を追加したい場合は、リンクをクリックしてください
+6,11,2,他の仕事の経験を入力してください
+6,11,3,それ以外の場合は、次のトピックに進みます
+6,11,4,次のトピック
+6,12,1,このトピックは既知の言語に特化していますデータを入力したい場合はリンクをクリックしてください
+6,12,2,データを挿入します
+6,12,3,それ以外の場合は、リンクをクリックして次のトピックに移動します
+6,12,4,後続のテーマ
+6,13,1,舌
+6,13,2,レベル
+6,14,1,おかげで、情報は正しく入力されました。別の既知の言語を入力したい場合は、リンクをクリックしてください
+6,14,2,別の言語を入力してください
+6,14,3,それ以外の場合は、次のトピックに進みます
+6,14,4,後続のテーマ
+6,16,1,リンクをクリックして、データを変更または更新してください
+6,16,2,データを編集する
+6,17,1,以下のリンクをクリックして詳細を編集してください
+6,17,2,個人データを変更する
+6,17,3,作業データを変更する
+6,17,4,研究データの変更
+6,17,5,言語データを編集する
+6,18,1,題名
+6,19,2,ありがとうございます。別の調査を追加する場合は、情報が正しく入力されています。リンクをクリックしてください
+6,19,3,研究を追加する
+6,19,4,それ以外の場合は、リンクをクリックして次のトピックに移動します
+6,19,5,ホームページに戻ります
+6,20,1,題名
+6,21,1,職業
+6,21,2,期間
+6,22,2,情報が正しく入力されました。別の専門的な体験を追加したい場合は、リンクをクリックしてください
+6,22,3,プロフェッショナルな体験を追加する
+6,22,4,それ以外の場合は、リンクをクリックして次のトピックに進みます
+6,22,5,ホームページに戻ります
+6,23,1,職業
+6,23,2,期間
+6,24,1,舌
+6,24,2,レベル
+6,25,2,ありがとうございます。別の調査を追加する場合は、情報が正しく入力されています。リンクをクリックしてください
+6,25,3,言語を追加
+6,25,4,それ以外の場合は、リンクをクリックして次のトピックに進みます
+6,25,5,ホームページに戻ります
+6,26,1,舌
+6,26,2,レベル
+6,27,1,ファーストネーム
+6,27,2,姓
+6,27,3,会計コード
+6,27,4,年齢
+6,27,5,性別
+6,27,6,状態
+6,27,7,州
+6,27,8,一般

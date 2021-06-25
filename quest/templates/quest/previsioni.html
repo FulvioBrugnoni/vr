@@ -1,0 +1,101 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link href="{% static '/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+  </head>
+  <body>
+
+    <h1>Previsioni</h1>
+    <form method="get" >
+
+        nome
+
+        amm1
+        <p>     {{form.amm1}} </p>
+        amm2
+        <p  id="personForm" data-amm2-url="{% url 'ajax_load_amm2' %}">    {{form.amm2}} </p>
+        amm3
+        <p id="personForm2" data-amm3-url="{% url 'ajax_load_amm3' %}">     {{form.amm3}} </p>
+        amm4
+        <p  id="personForm3" data-amm4-url="{% url 'ajax_load_amm4' %}">    {{form.amm4}} </p>
+
+        {{form.lingua}}
+        {{form.livello}}
+
+        <input type="submit" value="Submit">
+    </form>
+
+<h1>numero oggetti: {{pred | length}}</h1>
+
+    <table class="table table-hover table-responsive">
+        <td>Id</td>
+        <td>Candidato</td>
+        <td>Previsione</td>
+        <td>Esito</td>
+        {% for i in pred%}
+
+        <tr>
+            <td>{{i.id}}</td>
+            <td>{{i.candidato}}</td>
+            <td>{{i.previsione}}</td>
+            <td>{{i.esito}}</td>
+        </tr>
+
+        {% endfor %}
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+        $("#id_amm1").change(function () {
+            const url = $("#personForm").attr("data-amm2-url");
+            const amm1Id = $(this).val();
+
+            $.ajax({
+                url: url,
+                data: {'amm1_id': amm1Id},
+                success: function (data) {
+                  console.log(data);
+                  $("#id_amm2").html(data);}
+            });
+
+        });
+    </script>
+
+    <script>
+        $("#id_amm2").change(function () {
+            const url = $("#personForm2").attr("data-amm3-url");
+            const amm2Id = $(this).val();
+
+            $.ajax({
+                url: url,
+                data: {'amm2_id': amm2Id},
+                success: function (data) {
+                  console.log(data);
+                  $("#id_amm3").html(data);}
+            });
+
+        });
+    </script>
+
+    <script>
+        $("#id_amm3").change(function () {
+            const url = $("#personForm3").attr("data-amm4-url");
+            const amm3Id = $(this).val();
+
+            $.ajax({
+                url: url,
+                data: {'amm3_id': amm3Id},
+                success: function (data) {$("#id_amm4").html(data);}
+            });
+
+        });
+    </script>
+
+  </body>
+</html>

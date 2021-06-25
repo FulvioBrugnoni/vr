@@ -1,0 +1,11 @@
+{% extends 'quest/base.html'%}
+{% load static %}
+{% block content %}
+<h1>{{title}}</h1>
+{{user}}
+    <form action="" method="post" novalidate>
+  {% csrf_token %}
+{{form.professione}}
+{{form.durata}}
+<button type="submit" class="btn btn-primary">Submit</button>
+{% endblock %}
